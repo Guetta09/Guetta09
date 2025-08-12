@@ -8,9 +8,9 @@
 ---
 
 ## 🚀 Tecnologías y Herramientas  
-🔹 **Desarrollo Web**: Vue.js, HTML, CSS, JavaScript  
+🔹 **Desarrollo Web**: Vue.js, HTML, CSS, JavaScript, Tailwind.css
 🔹 **Desarrollo Móvil**: Ionic + Vue.js  
-🔹 **Back-end**: Firebase  
+🔹 **Back-end**: Firebase, Node.js
 🔹 **Análisis de Datos**: Python (Pandas, Matplotlib, NumPy)  
 🔹 **Control de Versiones**: Git & GitHub  
 
