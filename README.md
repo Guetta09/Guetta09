@@ -20,11 +20,14 @@
 🔸 **[Plataforma de Recetas de Cocina](https://github.com/Guetta09/)**  
 ➡ Aplicación web funcional creada con **Vue.js, HTML, CSS y JavaScript**.  
 
-🔸 **[Order - App de Tareas](https://github.com/Guetta09/)** (En desarrollo)  
+🔸 **[Order - App de Tareas](https://github.com/Guetta09/)**   
 ➡ Aplicación móvil web con **Ionic + Vue.js**, sincronización en **Firebase**.  
 
 🔸 **Proyecto de Realidad Virtual**  
-➡ Desarrollo de una simulación VR de la cervecería de mi universidad.  
+➡ Desarrollo de una simulación VR de la cervecería de mi universidad. 
+
+🔸 **[Resumen OpenAI](https://github.com/Guetta09/resumen_openai)**  
+➡  API en Node.js + Express que utiliza la OpenAI API para generar resúmenes automáticos de texto..  
 
 ---
 
